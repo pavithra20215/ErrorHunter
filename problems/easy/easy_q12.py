@@ -16,9 +16,6 @@ if __name__ == "__main__":
  
     result = calculator(n1,n2,opr)
  
-    result = calculator(n1,n2,opr)
- 
- 
     print(result)
  
  
